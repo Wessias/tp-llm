@@ -156,7 +156,7 @@ print(decode(m.generate(idx = torch.zeros((1, 1), dtype=torch.long), max_new_tok
 
 
 
-# %% bigram model with attention
+# %% bigram model with self-attention
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
