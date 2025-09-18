@@ -1,4 +1,4 @@
-# %% bigram model with self-attention
+# %% bigram model with self-attention and later expanded to have multi headed attention too
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
