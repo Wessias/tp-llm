@@ -10,7 +10,7 @@ The aim of the project was to stitch together a LLM based on writing (which you 
 
 ## What’s Implemented
 
-- **Naive Bigram Model (`train.py`, `bigram_simple.py`)**  
+- **Naive Bigram Model (`testing.py`, `bigram_simple.py`)**  
   A minimal character-level model where each token directly predicts the next one from an embedding lookup.  
   This serves as the baseline for later improvements.
 
