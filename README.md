@@ -1,6 +1,6 @@
 # Self-Teaching Transformers
 
-This repository is a self-study project to understand transformers by implementing them from scratch.  
+This repository is a self-study project to understand transformers by implementing them from scratch (with PyTorch).  
 The work follows the schema from the well known paper ["Attention Is All You Need"](https://arxiv.org/pdf/1706.03762), starting from a simple bigram baseline and gradually building up to a transformer with self-attention and multi-head attention.  
 The aim of the project was to stitch together a LLM based on writing (which you will not find in this repo as that would be illegal) from one of my favorite authors Terry Pratchett - who has sadly deceased. But, as I should've learnt from his books, some things aren't quite the same after you've stiched them back together and should perhaps be left... unalive.  
 
